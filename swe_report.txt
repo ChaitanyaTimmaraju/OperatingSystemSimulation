@@ -1,0 +1,76 @@
+[1]GENERAL APPROACH TO THE PROBLEM:
+   As the phaseIII is to add additional changes to the existing system,
+minor changes are only required.To do this first design and coding are
+done in small tasks and unit testing is done on each task.After all the
+tasks are completed the previously used components(for example ready 
+queue etc.) are removed.Then the whole project is integrated and integration
+testing is done.Finally,a system testing is done to ensure the simulation 
+meets overall requirements for all the three phases.
+
+[2]LIST OF UTILITIES USED : 
+	For writing and debugging code ECLIPSE is used,as it contains 
+interactive debugging additional features like JIVE which helps debugging 
+lot easier.The formatting of the code for typescript is done by using code 
+beautifier.For most of the run time debugging purposes ant debugger is used.
+For the code statistics code analyzer tool is used.
+      
+[3]BULK COMPLEXITIES OF SIMULATED PROGRAM :
+
+    [a]Total Number of lines of code : 1922
+      1)Declarations          : 225
+      2)Comment Lines         : 269					
+      3)Executable Statements : 1154
+      4)Blank Lines	     	  :187
+    [b]Number of decisions    : 154
+    [c]Number of procedures   : 44
+    [d]Number of classes      : 9
+    
+[4]APPROXIMATE TIME SPENT: 
+	
+    [a]Design : 2 days
+    [b]Coding : 1-2 days
+    [c]Testing: 2 days
+   
+[5]PORTABILITY OF SIMULATION TO OTHER ARCHITECTURE/SYSTEMS:
+       As the complete project is written using the object oriented concepts 
+its easy to implement which supports those concepts such as Ruby,c++.For non 
+object oriented languages also its not difficult,but complex datatypes such 
+as structures must be used and for the queue's a similar datatype which holds
+the state of system at regular times should be used.
+
+[6]JUSTIFICATION OF CHOICE FOR IMPLEMENTATION LANGUAGE: 
+       In future to enhance the System by implementing multithreading its easy
+to do by using java.Without any changes the simulated System can be used on other
+platforms.In order to optimize the code,many code optimization tools such as sonar 
+are widely available.
+
+[7]MATRIX FOR TRAFFIC:
+
+ I)tb
+	       q: 35     40     45     50     
+    	      (dec)  (dec)  (dec)  (dec)  
+	n:        
+	3(dec):   715    643    588    525    
+	4(dec):   534    472    413    382    
+	5(dec):   405    354    351    321    
+
+
+ II)tb+err:
+	       q: 35     40     45     50     
+    	     (dec)  (dec)  (dec)  (dec)  
+	n:        
+	3(dec):   1589   1401   1261   1111   
+	4(dec):   1161   1018   907    804    
+	5(dec):   890    793    713    662    
+ 
+ [8]ANALYSIS:
+ 			From the above statistics we can clearly see that as n and q values are
+ incremented, the migration amongst the queues decrease. As a result the time taken
+ during context switching also decreases. But each jobs waiting time in the queue 
+increases.
+
+[9]Observable patterns:
+	1) With fixed n (CPU turns), incrementing q (quantum)increases the migrations and 
+   	  vice versa.
+	2) Incrementing n with fixed q increases migrations much faster than incrementing
+	   q with fixed n.

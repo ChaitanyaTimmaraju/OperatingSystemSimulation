@@ -1,0 +1,1730 @@
+
+Job ID(Hex):0  Clock(Hex): 0     
+
+Job ID(Hex):1  Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):2  Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):3  Clock(Hex): 0     Error:MISSING **FIN (LOAD TIME ERROR.CODE:82)
+
+Job ID(Hex):4  Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):5  Clock(Hex): 0     
+
+Job ID(Hex):6  Clock(Hex): 0     
+
+Job ID(Hex):7  Clock(Hex): 0     
+
+Job ID(Hex):8  Clock(Hex): 0     Error:DOUBLE DATA FOUND (LOAD TIME ERROR.CODE:81)
+
+Job ID(Hex):9  Clock(Hex): 0     
+
+Job ID(Hex):a  Clock(Hex): 0     
+
+Job ID(Hex):b  Clock(Hex): 0     Error:MISSING **FIN (LOAD TIME ERROR.CODE:82)
+
+Job ID(Hex):c  Clock(Hex): 0     
+
+Job ID(Hex):d  Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):e  Clock(Hex): 0     
+
+Job ID(Hex):f  Clock(Hex): 0     
+
+Job ID(Hex):10 Clock(Hex): 0     
+
+Job ID(Hex):11 Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):12 Clock(Hex): 0     
+
+Job ID(Hex):13 Clock(Hex): 0     Error:PROGRAM TOO LONG (LOAD TIME ERROR.CODE:78)
+
+Job ID(Hex):14 Clock(Hex): 0     
+
+Job ID(Hex):15 Clock(Hex): 0     Error:MISSING **DATA (LOAD TIME ERROR.CODE:80)
+
+Job ID(Hex):16 Clock(Hex): 0     
+
+Job ID(Hex):17 Clock(Hex): 0     
+
+Job ID(Hex):18 Clock(Hex): 0     
+
+Job ID(Hex):19 Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):1a Clock(Hex): 0     
+
+Job ID(Hex):1b Clock(Hex): 0     
+
+Job ID(Hex):1c Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):1d Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):1e Clock(Hex): 0     
+
+Job ID(Hex):1f Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):20 Clock(Hex): 0     
+
+Job ID(Hex):21 Clock(Hex): 0     
+
+Job ID(Hex):22 Clock(Hex): 0     
+
+Job ID(Hex):23 Clock(Hex): 0     Error:MISSING PC AND TRACE BITS (LOAD TIME ERROR.CODE:79)
+
+Job ID(Hex):24 Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):25 Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):26 Clock(Hex): 0     
+
+Job ID(Hex):27 Clock(Hex): 0     
+
+Job ID(Hex):28 Clock(Hex): 0     WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Status of operating system
+Contents Of ready list(hex):            [2, 4, 5, 6, 7]
+Currently executing job(hex):           [1]            
+Contents Of blocked queue(hex):         [0]            
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     97.66          
+Number of jobs on disk(hex):            23             
+Current Memory Configuration
+Number of jobs in memory(hex):          [0, 2, 4, 5, 6, 7, 1]
+Number of holes in memory(hex):         2              
+
+Status of operating system
+Contents Of ready list(hex):            [6, 7, 0, 1, 2]
+Currently executing job(hex):           [5]            
+Contents Of blocked queue(hex):         [4]            
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     97.66          
+Number of jobs on disk(hex):            23             
+Current Memory Configuration
+Number of jobs in memory(hex):          [4, 6, 7, 0, 1, 2, 5]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       2              
+Current Clock value(decimal):      1449           
+Clock at load time(hex):           109            
+Clock at termination time(hex):    5a9            
+Output(hex):                       
+	 00000000 00000000 00000000 00000037
+Nature of termination:             Normal         
+Turnaround time(hex):              4a0            
+Run time(hex):                     15c            
+Execution time(hex):               37             
+Page fault handling time(hex):     11d            
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):29 Clock(Hex): 5a9   
+
+Job ID(hex):                       4              
+Current Clock value(decimal):      1450           
+Clock at load time(hex):           20e            
+Clock at termination time(hex):    5aa            
+Output(hex):                       
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              39c            
+Run time(hex):                     50             
+Execution time(hex):               3b             
+Page fault handling time(hex):     5              
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):2a Clock(Hex): 5aa   Error:NULL JOB (LOAD TIME ERROR.CODE:74)
+
+Job ID(Hex):2b Clock(Hex): 5aa   
+
+Job ID(Hex):2c Clock(Hex): 5aa   
+
+Job ID(hex):                       6              
+Current Clock value(decimal):      2228           
+Clock at load time(hex):           224            
+Clock at termination time(hex):    8b4            
+Output(hex):                       
+	 0000001c 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              690            
+Run time(hex):                     3b             
+Execution time(hex):               23             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       7              
+Current Clock value(decimal):      2234           
+Clock at load time(hex):           22e            
+Clock at termination time(hex):    8ba            
+Output(hex):                       
+	 00000012 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              68c            
+Run time(hex):                     87             
+Execution time(hex):               15             
+Page fault handling time(hex):     5a             
+Number of CPU shots(hex):          4              
+
+Job ID(Hex):2d Clock(Hex): 8ba   WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(hex):                       5              
+Current Clock value(decimal):      2931           
+Clock at load time(hex):           218            
+Clock at termination time(hex):    b73            
+Output(hex):                       
+	 00000346 00000024 000002cd 000000af
+Nature of termination:             Normal         
+Turnaround time(hex):              95b            
+Run time(hex):                     78             
+Execution time(hex):               58             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          5              
+
+Job ID(Hex):2e Clock(Hex): b73   
+
+Job ID(hex):                       9              
+Current Clock value(decimal):      3211           
+Clock at load time(hex):           847            
+Clock at termination time(hex):    c8b            
+Output(hex):                       
+	 00000078 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              444            
+Run time(hex):                     32             
+Execution time(hex):               22             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          3              
+
+Job ID(hex):                       f              
+Current Clock value(decimal):      3885           
+Clock at load time(hex):           e00            
+Clock at termination time(hex):    f2d            
+Error:                             CONTENT OF REGISTER OUT OF RANGE (EXECUTION TIME ERROR.CODE:306)
+Nature of termination:             Abnormal       
+Turnaround time(hex):              12d            
+Run time(hex):                     a              
+Execution time(partial execution)(hex):2              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          2              
+
+Job ID(Hex):2f Clock(Hex): f2d   
+
+Job ID(hex):                       a              
+Current Clock value(decimal):      4239           
+Clock at load time(hex):           851            
+Clock at termination time(hex):    108f           
+Output(hex):                       
+	 00000005 0000000a 0000000c 00000008
+	 0000000f 00000004 00000002 00000003
+Nature of termination:             Normal         
+Turnaround time(hex):              83e            
+Run time(hex):                     135            
+Execution time(hex):               2c             
+Page fault handling time(hex):     e1             
+Number of CPU shots(hex):          6              
+
+Job ID(Hex):30 Clock(Hex): 108f  Error:BAD CHARACTER ENCOUNTERED BY LOADER (LOAD TIME ERROR.CODE:76)
+
+Job ID(Hex):31 Clock(Hex): 108f  
+
+Job ID(hex):                       0              
+Current Clock value(decimal):      4293           
+Clock at load time(hex):           0              
+Clock at termination time(hex):    10c5           
+Output(hex):                       
+	 00000001 00000002 00000000 00001d09
+	 00000000 00000000 00000000 00000000
+	 00000001 00000004 00000000 00002ee1
+Nature of termination:             Normal         
+Turnaround time(hex):              10c5           
+Run time(hex):                     418            
+Execution time(hex):               a7             
+Page fault handling time(hex):     339            
+Number of CPU shots(hex):          a              
+
+Job ID(Hex):32 Clock(Hex): 10c5  
+
+Job ID(Hex):33 Clock(Hex): 10c5  Error:DOUBLE **JOB FOUND (LOAD TIME ERROR.CODE:71)
+
+Job ID(hex):                       c              
+Current Clock value(decimal):      4653           
+Clock at load time(hex):           b5d            
+Clock at termination time(hex):    122d           
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              6d0            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(Hex):34 Clock(Hex): 122d  
+
+Job ID(hex):                       e              
+Current Clock value(decimal):      4824           
+Clock at load time(hex):           c8b            
+Clock at termination time(hex):    12d8           
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              64d            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(Hex):35 Clock(Hex): 12d8  
+
+Job ID(hex):                       14             
+Current Clock value(decimal):      6914           
+Clock at load time(hex):           13da           
+Clock at termination time(hex):    1b02           
+Output(hex):                       
+	 00000012 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              728            
+Run time(hex):                     87             
+Execution time(hex):               15             
+Page fault handling time(hex):     5a             
+Number of CPU shots(hex):          4              
+
+Job ID(Hex):36 Clock(Hex): 1b02  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Status of operating system
+Contents Of ready list(hex):            [10, 17, 1, 11, 16]
+Currently executing job(hex):           [12]           
+Contents Of blocked queue(hex):         [d]            
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     98.44          
+Number of jobs on disk(hex):            22             
+Current Memory Configuration
+Number of jobs in memory(hex):          [d, 10, 17, 1, 11, 16, 12]
+Number of holes in memory(hex):         2              
+
+JOB ID: 10
+0000 0f00000f 0120000d 0110000f 0b100009 09100009 0f000013 03200013 0410000e 
+0008 0a100005 02200017 10000017 11000000 00000000 00000000 00000001 0000000a 
+0010 00000000 00000000 00000000 0000000a 00000000 00000000 00000000 00000037 
+0018 00000000 00000000 00000000 
+
+Job ID(hex):                       10             
+Current Clock value(decimal):      11182          
+Clock at load time(hex):           1012           
+Clock at termination time(hex):    2bae           
+Output(hex):                       
+	 00000037 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              1b9c           
+Run time(hex):                     9b             
+Execution time(hex):               3b             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          d              
+
+Job ID(hex):                       12             
+Current Clock value(decimal):      12257          
+Clock at load time(hex):           1276           
+Clock at termination time(hex):    2fe1           
+Output(hex):                       
+	 09898989 00000000 00000000 98989898
+	 076fa321 00000000 00000000 123af678
+	 15984572 00000000 00000000 27548951
+Nature of termination:             Normal         
+Turnaround time(hex):              1d6b           
+Run time(hex):                     822            
+Execution time(hex):               1eb            
+Page fault handling time(hex):     5ff            
+Number of CPU shots(hex):          e              
+
+Job ID(Hex):37 Clock(Hex): 2fe1  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):38 Clock(Hex): 2fe1  
+
+Job ID(hex):                       d              
+Current Clock value(decimal):      12295          
+Clock at load time(hex):           b68            
+Clock at termination time(hex):    3007           
+Output(hex):                       
+	 00000001 00000002 00000003 00000003
+	 00000002 00000002 00000003 00000006
+	 00000003 00000004 00000004 80000003
+	 00000004 00000006 00000003 00000007
+	 00000005 00000006 00000055 00000055
+	 00000006 00000004 00000002 80000006
+	 00000000 00000004 00000007 00000000
+	 00000001 00000001 00000001 00000000
+	 00000002 00000003 00000007 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              249f           
+Run time(hex):                     2bf            
+Execution time(hex):               92             
+Page fault handling time(hex):     195            
+Number of CPU shots(hex):          14             
+
+Job ID(Hex):39 Clock(Hex): 3007  Error:NULL JOB (LOAD TIME ERROR.CODE:74)
+
+Job ID(Hex):3a Clock(Hex): 3007  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(hex):                       19             
+Current Clock value(decimal):      12935          
+Clock at load time(hex):           3007           
+Clock at termination time(hex):    3287           
+Output(hex):                       
+	 00000000 00000000 00000000 00000037
+Nature of termination:             Normal         
+Turnaround time(hex):              280            
+Run time(hex):                     15c            
+Execution time(hex):               37             
+Page fault handling time(hex):     11d            
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):3b Clock(Hex): 3287  
+
+Job ID(hex):                       1b             
+Current Clock value(decimal):      14024          
+Clock at load time(hex):           338e           
+Clock at termination time(hex):    36c8           
+Output(hex):                       
+	 00000018 00000000 00000000 00000000
+	 00000006 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              33a            
+Run time(hex):                     24             
+Execution time(hex):               c              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(Hex):3c Clock(Hex): 36c8  
+
+JOB ID: 18
+0000 0f00000f 0120000d 0110000f 0b100009 09100009 0f000013 03200013 0410000e 
+0008 0a100005 02200017 10000017 11000000 00000000 00000000 00000001 0000000a 
+0010 00000000 00000000 00000000 0000000a 00000000 00000000 00000000 00000037 
+0018 00000000 00000000 00000000 
+
+Job ID(hex):                       18             
+Current Clock value(decimal):      15145          
+Clock at load time(hex):           2d50           
+Clock at termination time(hex):    3b29           
+Output(hex):                       
+	 00000037 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              dd9            
+Run time(hex):                     9b             
+Execution time(hex):               3b             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          d              
+
+Job ID(Hex):3d Clock(Hex): 3b29  
+
+Job ID(hex):                       1c             
+Current Clock value(decimal):      15509          
+Clock at load time(hex):           37cf           
+Clock at termination time(hex):    3c95           
+Output(hex):                       
+	 0000001b 00000003 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              4c6            
+Run time(hex):                     79             
+Execution time(hex):               20             
+Page fault handling time(hex):     41             
+Number of CPU shots(hex):          4              
+
+Job ID(Hex):3e Clock(Hex): 3c95  Error:BAD CHARACTER ENCOUNTERED BY LOADER (LOAD TIME ERROR.CODE:76)
+
+Job ID(Hex):3f Clock(Hex): 3c95  
+
+Job ID(Hex):40 Clock(Hex): 3c95  Error:MISSING **DATA (LOAD TIME ERROR.CODE:80)
+
+Job ID(hex):                       1d             
+Current Clock value(decimal):      15945          
+Clock at load time(hex):           3b29           
+Clock at termination time(hex):    3e49           
+Output(hex):                       
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              320            
+Run time(hex):                     50             
+Execution time(hex):               3b             
+Page fault handling time(hex):     5              
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):41 Clock(Hex): 3e49  
+
+Job ID(hex):                       1e             
+Current Clock value(decimal):      16822          
+Clock at load time(hex):           3cdb           
+Clock at termination time(hex):    41b6           
+Output(hex):                       
+	 00000346 00000024 000002cd 000000af
+Nature of termination:             Normal         
+Turnaround time(hex):              4db            
+Run time(hex):                     78             
+Execution time(hex):               58             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          5              
+
+Job ID(Hex):42 Clock(Hex): 41b6  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(hex):                       20             
+Current Clock value(decimal):      18362          
+Clock at load time(hex):           41ff           
+Clock at termination time(hex):    47ba           
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              5bb            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(Hex):43 Clock(Hex): 47ba  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Status of operating system
+Contents Of ready list(hex):            [16, 17, 1a, 1, 11]
+Currently executing job(hex):           [21]           
+Contents Of blocked queue(hex):         [1f]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     98.83          
+Number of jobs on disk(hex):            22             
+Current Memory Configuration
+Number of jobs in memory(hex):          [1f, 16, 17, 1a, 1, 11, 21]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       21             
+Current Clock value(decimal):      21251          
+Clock at load time(hex):           47f6           
+Clock at termination time(hex):    5303           
+Output(hex):                       
+	 00000001 00000002 00000000 00001d09
+	 00000000 00000000 00000000 00000000
+	 00000001 00000004 00000000 00002ee1
+Nature of termination:             Normal         
+Turnaround time(hex):              b0d            
+Run time(hex):                     418            
+Execution time(hex):               a7             
+Page fault handling time(hex):     339            
+Number of CPU shots(hex):          a              
+
+Job ID(Hex):44 Clock(Hex): 5303  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):45 Clock(Hex): 5303  
+
+Job ID(hex):                       1f             
+Current Clock value(decimal):      21276          
+Clock at load time(hex):           3e53           
+Clock at termination time(hex):    531c           
+Output(hex):                       
+	 00000001 00000002 00000003 00000003
+	 00000002 00000002 00000003 00000006
+	 00000003 00000004 00000004 80000003
+	 00000004 00000006 00000003 00000007
+	 00000005 00000006 00000055 00000055
+	 00000006 00000004 00000002 80000006
+	 00000000 00000004 00000007 00000000
+	 00000001 00000001 00000001 00000000
+	 00000002 00000003 00000007 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              14c9           
+Run time(hex):                     2bf            
+Execution time(hex):               92             
+Page fault handling time(hex):     195            
+Number of CPU shots(hex):          14             
+
+Job ID(Hex):46 Clock(Hex): 531c  
+
+Job ID(hex):                       24             
+Current Clock value(decimal):      22094          
+Clock at load time(hex):           5326           
+Clock at termination time(hex):    564e           
+Output(hex):                       
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              328            
+Run time(hex):                     50             
+Execution time(hex):               3b             
+Page fault handling time(hex):     5              
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):47 Clock(Hex): 564e  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(hex):                       22             
+Current Clock value(decimal):      22095          
+Clock at load time(hex):           531c           
+Clock at termination time(hex):    564f           
+Output(hex):                       
+	 00000018 00000000 00000000 00000000
+	 00000006 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              333            
+Run time(hex):                     24             
+Execution time(hex):               c              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(Hex):48 Clock(Hex): 564f  
+
+Job ID(hex):                       25             
+Current Clock value(decimal):      22900          
+Clock at load time(hex):           564f           
+Clock at termination time(hex):    5974           
+Output(hex):                       
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              325            
+Run time(hex):                     50             
+Execution time(hex):               3b             
+Page fault handling time(hex):     5              
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):49 Clock(Hex): 5974  
+
+Job ID(hex):                       26             
+Current Clock value(decimal):      23283          
+Clock at load time(hex):           5659           
+Clock at termination time(hex):    5af3           
+Output(hex):                       
+	 00000003 00000000 00000000 00000002
+Nature of termination:             Normal         
+Turnaround time(hex):              49a            
+Run time(hex):                     27             
+Execution time(hex):               f              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(Hex):4a Clock(Hex): 5af3  
+
+Job ID(hex):                       27             
+Current Clock value(decimal):      23402          
+Clock at load time(hex):           5987           
+Clock at termination time(hex):    5b6a           
+Error:                             INSUFFICIENT OUTPUT SPACE (RUN TIME ERROR.CODE:440)
+Nature of termination:             Abnormal       
+Turnaround time(hex):              1e3            
+Run time(hex):                     a              
+Execution time(partial execution)(hex):2              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          2              
+
+Job ID(Hex):4b Clock(Hex): 5b6a  
+
+Job ID(hex):                       28             
+Current Clock value(decimal):      23804          
+Clock at load time(hex):           5b6a           
+Clock at termination time(hex):    5cfc           
+Output(hex):                       
+	 00000000 00000000 00000000 00000037
+Nature of termination:             Normal         
+Turnaround time(hex):              192            
+Run time(hex):                     15c            
+Execution time(hex):               37             
+Page fault handling time(hex):     11d            
+Number of CPU shots(hex):          3              
+
+Job ID(hex):                       2b             
+Current Clock value(decimal):      24321          
+Clock at load time(hex):           5cfc           
+Clock at termination time(hex):    5f01           
+Output(hex):                       
+	 00000078 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              205            
+Run time(hex):                     32             
+Execution time(hex):               22             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):4c Clock(Hex): 5f01  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(hex):                       29             
+Current Clock value(decimal):      24890          
+Clock at load time(hex):           5c6f           
+Clock at termination time(hex):    613a           
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              4cb            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(Hex):4d Clock(Hex): 613a  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):4e Clock(Hex): 613a  
+
+Job ID(hex):                       2d             
+Current Clock value(decimal):      25842          
+Clock at load time(hex):           614b           
+Clock at termination time(hex):    64f2           
+Output(hex):                       
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              3a7            
+Run time(hex):                     50             
+Execution time(hex):               3b             
+Page fault handling time(hex):     5              
+Number of CPU shots(hex):          3              
+
+Job ID(hex):                       2e             
+Current Clock value(decimal):      26989          
+Clock at load time(hex):           65ed           
+Clock at termination time(hex):    696d           
+Output(hex):                       
+	 00000012 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              380            
+Run time(hex):                     87             
+Execution time(hex):               15             
+Page fault handling time(hex):     5a             
+Number of CPU shots(hex):          4              
+
+Job ID(Hex):4f Clock(Hex): 696d  WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):50 Clock(Hex): 696d  Error:MISSING **JOB (LOAD TIME ERROR.CODE:70)
+
+Status of operating system
+Contents Of ready list(hex):            [16, 17, 1a, 2c, 2f]
+Currently executing job(hex):           [11]           
+Contents Of blocked queue(hex):         [1]            
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     98.83          
+Number of jobs on disk(hex):            22             
+Current Memory Configuration
+Number of jobs in memory(hex):          [1, 16, 17, 1a, 2c, 2f, 11]
+Number of holes in memory(hex):         2              
+
+Status of operating system
+Contents Of ready list(hex):            [16, 17, 1a, 2c, 2f]
+Currently executing job(hex):           [11]           
+Contents Of blocked queue(hex):         [1]            
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     98.83          
+Number of jobs on disk(hex):            22             
+Current Memory Configuration
+Number of jobs in memory(hex):          [1, 16, 17, 1a, 2c, 2f, 11]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       1              
+Current Clock value(decimal):      72326          
+Clock at load time(hex):           a              
+Clock at termination time(hex):    11a86          
+Output(hex):                       
+	 0000000a 00000001 00000006 00000200
+	 00000004 00003333 00000222 00000040
+	 00000004 00000003 00000002 00000000
+	 00000000 00000000 00000000 00000000
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              11a7c          
+Run time(hex):                     224e           
+Execution time(hex):               3fe            
+Page fault handling time(hex):     1e28           
+Number of CPU shots(hex):          1d             
+
+Job ID(Hex):51 Clock(Hex): 11a86 
+
+Job ID(Hex):52 Clock(Hex): 11a86 
+
+Job ID(hex):                       11             
+Current Clock value(decimal):      72898          
+Clock at load time(hex):           10e8           
+Clock at termination time(hex):    11cc2          
+Output(hex):                       
+	 0000000a 00000001 00000006 00000200
+	 00000004 00003333 00000222 00000040
+	 00000004 00000003 00000002 00000000
+	 00000000 00000000 00000000 00000000
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              10bda          
+Run time(hex):                     224e           
+Execution time(hex):               3fe            
+Page fault handling time(hex):     1e28           
+Number of CPU shots(hex):          1d             
+
+Job ID(Hex):53 Clock(Hex): 11cc2 
+
+Job ID(Hex):54 Clock(Hex): 11cc2 WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):55 Clock(Hex): 11cc2 Error:DOUBLE **JOB FOUND (LOAD TIME ERROR.CODE:71)
+
+Job ID(hex):                       31             
+Current Clock value(decimal):      74532          
+Clock at load time(hex):           11a86          
+Clock at termination time(hex):    12324          
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              89e            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(Hex):56 Clock(Hex): 12324 
+
+Job ID(hex):                       32             
+Current Clock value(decimal):      75141          
+Clock at load time(hex):           11ce7          
+Clock at termination time(hex):    12585          
+Output(hex):                       
+	 00000005 0000000a 0000000c 00000008
+	 0000000f 00000004 00000002 00000003
+Nature of termination:             Normal         
+Turnaround time(hex):              89e            
+Run time(hex):                     135            
+Execution time(hex):               2c             
+Page fault handling time(hex):     e1             
+Number of CPU shots(hex):          6              
+
+Job ID(Hex):57 Clock(Hex): 12585 
+
+Job ID(hex):                       34             
+Current Clock value(decimal):      75854          
+Clock at load time(hex):           12339          
+Clock at termination time(hex):    1284e          
+Output(hex):                       
+	 00000003 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              515            
+Run time(hex):                     27             
+Execution time(hex):               f              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       36             
+Current Clock value(decimal):      75854          
+Clock at load time(hex):           1284e          
+Clock at termination time(hex):    1284e          
+Error:                             INVALID OP CODE (EXECUTION TIME ERROR.CODE:304)
+Nature of termination:             Abnormal       
+Turnaround time(hex):              0              
+Run time(hex):                     0              
+Execution time(partial execution)(hex):0              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          1              
+
+Job ID(Hex):58 Clock(Hex): 1284e WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Status of operating system
+Contents Of ready list(hex):            [17, 1a, 2c, 2f, 16]
+Currently executing job(hex):           [35]           
+Contents Of blocked queue(hex):         [37]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     97.66          
+Number of jobs on disk(hex):            23             
+Current Memory Configuration
+Number of jobs in memory(hex):          [37, 17, 1a, 2c, 2f, 16, 35]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       37             
+Current Clock value(decimal):      83274          
+Clock at load time(hex):           1284e          
+Clock at termination time(hex):    1454a          
+Output(hex):                       
+	 00000001 00000002 00000003 00000003
+	 00000002 00000002 00000003 00000006
+	 00000003 00000004 00000004 80000003
+	 00000004 00000006 00000003 00000007
+	 00000005 00000006 00000055 00000055
+	 00000006 00000004 00000002 80000006
+	 00000000 00000004 00000007 00000000
+	 00000001 00000001 00000001 00000000
+	 00000002 00000003 00000007 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              1cfc           
+Run time(hex):                     2bf            
+Execution time(hex):               92             
+Page fault handling time(hex):     195            
+Number of CPU shots(hex):          14             
+
+Job ID(Hex):59 Clock(Hex): 1454a 
+
+Job ID(Hex):5a Clock(Hex): 1454a 
+
+Job ID(hex):                       38             
+Current Clock value(decimal):      85195          
+Clock at load time(hex):           1454a          
+Clock at termination time(hex):    14ccb          
+Output(hex):                       
+	 00000346 00000024 000002cd 000000af
+Nature of termination:             Normal         
+Turnaround time(hex):              781            
+Run time(hex):                     78             
+Execution time(hex):               58             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          5              
+
+Job ID(Hex):5b Clock(Hex): 14ccb WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Status of operating system
+Contents Of ready list(hex):            [1a, 2c, 2f, 16, 35]
+Currently executing job(hex):           [17]           
+Contents Of blocked queue(hex):         [3a]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     99.22          
+Number of jobs on disk(hex):            24             
+Current Memory Configuration
+Number of jobs in memory(hex):          [3a, 1a, 2c, 2f, 16, 35, 17]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       3a             
+Current Clock value(decimal):      97633          
+Clock at load time(hex):           14ccb          
+Clock at termination time(hex):    17d61          
+Output(hex):                       
+	 0000000a 00000001 00000006 00000200
+	 00000004 00003333 00000222 00000040
+	 00000004 00000003 00000002 00000000
+	 00000000 00000000 00000000 00000000
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              3096           
+Run time(hex):                     224e           
+Execution time(hex):               3fe            
+Page fault handling time(hex):     1e28           
+Number of CPU shots(hex):          1d             
+
+Job ID(Hex):5c Clock(Hex): 17d61 
+
+Job ID(Hex):5d Clock(Hex): 17d61 
+
+Job ID(Hex):5e Clock(Hex): 17d61 Error:MISSING **JOB (LOAD TIME ERROR.CODE:70)
+
+Job ID(hex):                       3b             
+Current Clock value(decimal):      99348          
+Clock at load time(hex):           17d61          
+Clock at termination time(hex):    18414          
+Output(hex):                       
+	 0000001c 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              6b3            
+Run time(hex):                     3b             
+Execution time(hex):               23             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Status of operating system
+Contents Of ready list(hex):            [35, 17, 1a, 2c, 2f]
+Currently executing job(hex):           [16]           
+Contents Of blocked queue(hex):         [3c]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     96.48          
+Number of jobs on disk(hex):            24             
+Current Memory Configuration
+Number of jobs in memory(hex):          [3c, 35, 17, 1a, 2c, 2f, 16]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       3c             
+Current Clock value(decimal):      104284         
+Clock at load time(hex):           18414          
+Clock at termination time(hex):    1975c          
+Output(hex):                       
+	 00000001 00000002 00000000 00001d09
+	 00000000 00000000 00000000 00000000
+	 00000001 00000004 00000000 00002ee1
+Nature of termination:             Normal         
+Turnaround time(hex):              1348           
+Run time(hex):                     418            
+Execution time(hex):               a7             
+Page fault handling time(hex):     339            
+Number of CPU shots(hex):          a              
+
+Job ID(Hex):5f Clock(Hex): 1975c WARNING:UNUSED PAGES (LOAD TIME WARNING.CODE: 507)
+
+Job ID(Hex):60 Clock(Hex): 1975c Error:BAD CHARACTER ENCOUNTERED (LOAD TIME ERROR.CODE:85)
+
+Job ID(Hex):61 Clock(Hex): 1975c 
+
+JOB ID: 3d
+0000 0f00000f 0120000d 0110000f 0b100009 09100009 0f000013 03200013 0410000e 
+0008 0a100005 02200017 10000017 11000000 00000000 00000000 00000001 0000000a 
+0010 00000000 00000000 00000000 0000000a 00000000 00000000 00000000 00000037 
+0018 00000000 00000000 00000000 
+
+Job ID(hex):                       3d             
+Current Clock value(decimal):      109854         
+Clock at load time(hex):           1975c          
+Clock at termination time(hex):    1ad1e          
+Output(hex):                       
+	 00000037 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              15c2           
+Run time(hex):                     9b             
+Execution time(hex):               3b             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          d              
+
+Job ID(Hex):62 Clock(Hex): 1ad1e Error:MISSING **JOB (LOAD TIME ERROR.CODE:70)
+
+Job ID(hex):                       3f             
+Current Clock value(decimal):      110755         
+Clock at load time(hex):           1ae18          
+Clock at termination time(hex):    1b0a3          
+Output(hex):                       
+	 00000078 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              28b            
+Run time(hex):                     32             
+Execution time(hex):               22             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          3              
+
+Job ID(Hex):63 Clock(Hex): 1b0a3 
+
+Status of operating system
+Contents Of ready list(hex):            [35, 17, 1a, 2c, 2f]
+Currently executing job(hex):           [16]           
+Contents Of blocked queue(hex):         [41]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     98.44          
+Number of jobs on disk(hex):            24             
+Current Memory Configuration
+Number of jobs in memory(hex):          [41, 35, 17, 1a, 2c, 2f, 16]
+Number of holes in memory(hex):         2              
+
+JOB ID: 41
+0000 0f00000f 0120000d 0110000f 0b100009 09100009 0f000013 03200013 0410000e 
+0008 0a100005 02200017 10000017 11000000 00000000 00000000 00000001 0000000a 
+0010 00000000 00000000 00000000 0000000a 00000000 00000000 00000000 00000037 
+0018 00000000 00000000 00000000 
+
+Job ID(hex):                       41             
+Current Clock value(decimal):      115617         
+Clock at load time(hex):           1b0a3          
+Clock at termination time(hex):    1c3a1          
+Output(hex):                       
+	 00000037 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              12fe           
+Run time(hex):                     9b             
+Execution time(hex):               3b             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          d              
+
+Job ID(Hex):64 Clock(Hex): 1c3a1 
+
+Job ID(Hex):65 Clock(Hex): 1c3a1 
+
+Job ID(hex):                       42             
+Current Clock value(decimal):      116421         
+Clock at load time(hex):           1c3a1          
+Clock at termination time(hex):    1c6c5          
+Output(hex):                       
+	 00000000 00000000 00000000 00000037
+Nature of termination:             Normal         
+Turnaround time(hex):              324            
+Run time(hex):                     15c            
+Execution time(hex):               37             
+Page fault handling time(hex):     11d            
+Number of CPU shots(hex):          3              
+
+Job ID(hex):                       43             
+Current Clock value(decimal):      117404         
+Clock at load time(hex):           1c6c5          
+Clock at termination time(hex):    1ca9c          
+Output(hex):                       
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              3d7            
+Run time(hex):                     50             
+Execution time(hex):               3b             
+Page fault handling time(hex):     5              
+Number of CPU shots(hex):          3              
+
+Job ID(hex):                       44             
+Current Clock value(decimal):      119063         
+Clock at load time(hex):           1ca9c          
+Clock at termination time(hex):    1d117          
+Output(hex):                       
+	 00000002 00000004 00000008 00000010
+	 00000020 00000040 00000080 00000100
+	 00000200 00000400 00000800 00001000
+Nature of termination:             Normal         
+Turnaround time(hex):              67b            
+Run time(hex):                     c1             
+Execution time(hex):               5e             
+Page fault handling time(hex):     4b             
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       45             
+Current Clock value(decimal):      120154         
+Clock at load time(hex):           1d117          
+Clock at termination time(hex):    1d55a          
+Output(hex):                       
+	 00000018 00000000 00000000 00000000
+	 00000006 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              443            
+Run time(hex):                     24             
+Execution time(hex):               c              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Status of operating system
+Contents Of ready list(hex):            [1a, 2c, 2f, 16, 35]
+Currently executing job(hex):           [17]           
+Contents Of blocked queue(hex):         [46]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     90.23          
+Number of jobs on disk(hex):            21             
+Current Memory Configuration
+Number of jobs in memory(hex):          [46, 1a, 2c, 2f, 16, 35, 17]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       46             
+Current Clock value(decimal):      122110         
+Clock at load time(hex):           1d654          
+Clock at termination time(hex):    1dcfe          
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              6aa            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(hex):                       47             
+Current Clock value(decimal):      130500         
+Clock at load time(hex):           1dcfe          
+Clock at termination time(hex):    1fdc4          
+Output(hex):                       
+	 00000001 00000002 00000003 00000003
+	 00000002 00000002 00000003 00000006
+	 00000003 00000004 00000004 80000003
+	 00000004 00000006 00000003 00000007
+	 00000005 00000006 00000055 00000055
+	 00000006 00000004 00000002 80000006
+	 00000000 00000004 00000007 00000000
+	 00000001 00000001 00000001 00000000
+	 00000002 00000003 00000007 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              20c6           
+Run time(hex):                     2bf            
+Execution time(hex):               92             
+Page fault handling time(hex):     195            
+Number of CPU shots(hex):          14             
+
+Status of operating system
+Contents Of ready list(hex):            [2c, 2f, 16, 35, 17]
+Currently executing job(hex):           [1a]           
+Contents Of blocked queue(hex):         [48]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     82.42          
+Number of jobs on disk(hex):            1f             
+Current Memory Configuration
+Number of jobs in memory(hex):          [48, 2c, 2f, 16, 35, 17, 1a]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       48             
+Current Clock value(decimal):      131971         
+Clock at load time(hex):           1febe          
+Clock at termination time(hex):    20383          
+Output(hex):                       
+	 00000346 00000024 000002cd 000000af
+Nature of termination:             Normal         
+Turnaround time(hex):              4c5            
+Run time(hex):                     78             
+Execution time(hex):               58             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          5              
+
+Job ID(hex):                       49             
+Current Clock value(decimal):      133162         
+Clock at load time(hex):           20383          
+Clock at termination time(hex):    2082a          
+Output(hex):                       
+	 00000012 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              4a7            
+Run time(hex):                     87             
+Execution time(hex):               15             
+Page fault handling time(hex):     5a             
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       4a             
+Current Clock value(decimal):      134683         
+Clock at load time(hex):           2082a          
+Clock at termination time(hex):    20e1b          
+Output(hex):                       
+	 00000346 00000024 000002cd 000000af
+Nature of termination:             Normal         
+Turnaround time(hex):              5f1            
+Run time(hex):                     78             
+Execution time(hex):               58             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          5              
+
+Job ID(hex):                       4b             
+Current Clock value(decimal):      136174         
+Clock at load time(hex):           20e1b          
+Clock at termination time(hex):    213ee          
+Output(hex):                       
+	 00000012 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              5d3            
+Run time(hex):                     87             
+Execution time(hex):               15             
+Page fault handling time(hex):     5a             
+Number of CPU shots(hex):          4              
+
+Status of operating system
+Contents Of ready list(hex):            [2f, 16, 35, 17, 1a]
+Currently executing job(hex):           [2c]           
+Contents Of blocked queue(hex):         [4c]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     74.61          
+Number of jobs on disk(hex):            1b             
+Current Memory Configuration
+Number of jobs in memory(hex):          [4c, 2f, 16, 35, 17, 1a, 2c]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       4c             
+Current Clock value(decimal):      149670         
+Clock at load time(hex):           213ee          
+Clock at termination time(hex):    248a6          
+Output(hex):                       
+	 0000000a 00000001 00000006 00000200
+	 00000004 00003333 00000222 00000040
+	 00000004 00000003 00000002 00000000
+	 00000000 00000000 00000000 00000000
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              34b8           
+Run time(hex):                     224e           
+Execution time(hex):               3fe            
+Page fault handling time(hex):     1e28           
+Number of CPU shots(hex):          1d             
+
+Job ID(hex):                       4d             
+Current Clock value(decimal):      149928         
+Clock at load time(hex):           249a0          
+Clock at termination time(hex):    249a8          
+Error:                             ACCESSING INPUT OUT OF DISK (RUN TIME ERROR.CODE:440)
+Nature of termination:             Abnormal       
+Turnaround time(hex):              8              
+Run time(hex):                     0              
+Execution time(partial execution)(hex):0              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          1              
+
+Status of operating system
+Contents Of ready list(hex):            [2f, 16, 35, 17, 1a]
+Currently executing job(hex):           [2c]           
+Contents Of blocked queue(hex):         [4e]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     68.36          
+Number of jobs on disk(hex):            19             
+Current Memory Configuration
+Number of jobs in memory(hex):          [4e, 2f, 16, 35, 17, 1a, 2c]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       4e             
+Current Clock value(decimal):      151268         
+Clock at load time(hex):           24aa2          
+Clock at termination time(hex):    24ee4          
+Output(hex):                       
+	 00000003 00000005 00000002 00000007
+Nature of termination:             Normal         
+Turnaround time(hex):              442            
+Run time(hex):                     27             
+Execution time(hex):               f              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       4f             
+Current Clock value(decimal):      159562         
+Clock at load time(hex):           24ee4          
+Clock at termination time(hex):    26f4a          
+Output(hex):                       
+	 00000001 00000002 00000003 00000003
+	 00000002 00000002 00000003 00000006
+	 00000003 00000004 00000004 80000003
+	 00000004 00000006 00000003 00000007
+	 00000005 00000006 00000055 00000055
+	 00000006 00000004 00000002 80000006
+	 00000000 00000004 00000007 00000000
+	 00000001 00000001 00000001 00000000
+	 00000002 00000003 00000007 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              2066           
+Run time(hex):                     2bf            
+Execution time(hex):               92             
+Page fault handling time(hex):     195            
+Number of CPU shots(hex):          14             
+
+Status of operating system
+Contents Of ready list(hex):            [16, 35, 17, 1a, 2c]
+Currently executing job(hex):           [2f]           
+Contents Of blocked queue(hex):         [51]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     61.72          
+Number of jobs on disk(hex):            17             
+Current Memory Configuration
+Number of jobs in memory(hex):          [51, 16, 35, 17, 1a, 2c, 2f]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       51             
+Current Clock value(decimal):      163138         
+Clock at load time(hex):           27048          
+Clock at termination time(hex):    27d42          
+Output(hex):                       
+	 00000001 00000002 00000000 00001d09
+	 00000000 00000000 00000000 00000000
+	 00000001 00000004 00000000 00002ee1
+Nature of termination:             Normal         
+Turnaround time(hex):              cfa            
+Run time(hex):                     418            
+Execution time(hex):               a7             
+Page fault handling time(hex):     339            
+Number of CPU shots(hex):          a              
+
+Job ID(hex):                       52             
+Current Clock value(decimal):      165424         
+Clock at load time(hex):           27d42          
+Clock at termination time(hex):    28630          
+Output(hex):                       
+	 00000005 0000000a 0000000c 00000008
+	 0000000f 00000004 00000002 00000003
+Nature of termination:             Normal         
+Turnaround time(hex):              8ee            
+Run time(hex):                     135            
+Execution time(hex):               2c             
+Page fault handling time(hex):     e1             
+Number of CPU shots(hex):          6              
+
+Status of operating system
+Contents Of ready list(hex):            [2c, 2f, 16, 35, 17]
+Currently executing job(hex):           [1a]           
+Contents Of blocked queue(hex):         [53]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     56.25          
+Number of jobs on disk(hex):            15             
+Current Memory Configuration
+Number of jobs in memory(hex):          [53, 2c, 2f, 16, 35, 17, 1a]
+Number of holes in memory(hex):         2              
+
+JOB ID: 53
+0000 0f00000f 0120000d 0110000f 0b100009 09100009 0f000013 03200013 0410000e 
+0008 0a100005 02200017 10000017 11000000 00000000 00000000 00000001 0000000a 
+0010 00000000 00000000 00000000 0000000a 00000000 00000000 00000000 00000037 
+0018 00000000 00000000 00000000 
+
+Job ID(hex):                       53             
+Current Clock value(decimal):      171388         
+Clock at load time(hex):           28630          
+Clock at termination time(hex):    29d7c          
+Output(hex):                       
+	 00000037 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              174c           
+Run time(hex):                     9b             
+Execution time(hex):               3b             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          d              
+
+Job ID(hex):                       54             
+Current Clock value(decimal):      173241         
+Clock at load time(hex):           29d7c          
+Clock at termination time(hex):    2a4b9          
+Output(hex):                       
+	 00000002 00000004 00000008 00000010
+	 00000020 00000040 00000080 00000100
+	 00000200 00000400 00000800 00001000
+Nature of termination:             Normal         
+Turnaround time(hex):              73d            
+Run time(hex):                     c1             
+Execution time(hex):               5e             
+Page fault handling time(hex):     4b             
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       56             
+Current Clock value(decimal):      175051         
+Clock at load time(hex):           2a4b9          
+Clock at termination time(hex):    2abcb          
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              712            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(hex):                       57             
+Current Clock value(decimal):      177167         
+Clock at load time(hex):           2acc5          
+Clock at termination time(hex):    2b40f          
+Output(hex):                       
+	 00000001 00000001 00000002 00000003
+	 00000005 00000008 0000000d 00000015
+	 00000022 00000037 00000059 00000090
+Nature of termination:             Normal         
+Turnaround time(hex):              74a            
+Run time(hex):                     235            
+Execution time(hex):               60             
+Page fault handling time(hex):     1bd            
+Number of CPU shots(hex):          6              
+
+Job ID(hex):                       58             
+Current Clock value(decimal):      177871         
+Clock at load time(hex):           2b40f          
+Clock at termination time(hex):    2b6cf          
+Output(hex):                       
+	 00000000 00000000 00000000 00000037
+Nature of termination:             Normal         
+Turnaround time(hex):              2c0            
+Run time(hex):                     15c            
+Execution time(hex):               37             
+Page fault handling time(hex):     11d            
+Number of CPU shots(hex):          3              
+
+Status of operating system
+Contents Of ready list(hex):            [59, 17, 1a, 2c, 2f]
+Currently executing job(hex):           [35]           
+Contents Of blocked queue(hex):         [16]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     43.36          
+Number of jobs on disk(hex):            10             
+Current Memory Configuration
+Number of jobs in memory(hex):          [16, 59, 17, 1a, 2c, 2f, 35]
+Number of holes in memory(hex):         2              
+
+Status of operating system
+Contents Of ready list(hex):            [2c, 2f, 35, 59, 1a]
+Currently executing job(hex):           [17]           
+Contents Of blocked queue(hex):         [16]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     43.36          
+Number of jobs on disk(hex):            10             
+Current Memory Configuration
+Number of jobs in memory(hex):          [16, 2c, 2f, 35, 59, 1a, 17]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       16             
+Current Clock value(decimal):      893665         
+Clock at load time(hex):           14fa           
+Clock at termination time(hex):    da2e1          
+Output(hex):                       
+	 00000000 0000000f 00000003 00000000
+	 00000000 00000076 00000f31 00000000
+	 800530ed 00054321 00000000 00001234
+	 00000000 00000017 00000093 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              d8de7          
+Run time(hex):                     1e9d3          
+Execution time(hex):               14b89          
+Page fault handling time(hex):     9e02           
+Number of CPU shots(hex):          142            
+
+Job ID(hex):                       17             
+Current Clock value(decimal):      894141         
+Clock at load time(hex):           1d5c           
+Clock at termination time(hex):    da4bd          
+Output(hex):                       
+	 00000000 0000000f 00000003 00000000
+	 00000000 00000076 00000f31 00000000
+	 800530ed 00054321 00000000 00001234
+	 00000000 00000017 00000093 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              d8761          
+Run time(hex):                     1e9d3          
+Execution time(hex):               14b89          
+Page fault handling time(hex):     9e02           
+Number of CPU shots(hex):          142            
+
+Job ID(hex):                       5b             
+Current Clock value(decimal):      895020         
+Clock at load time(hex):           da4c7          
+Clock at termination time(hex):    da82c          
+Output(hex):                       
+	 00000000 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              365            
+Run time(hex):                     50             
+Execution time(hex):               3b             
+Page fault handling time(hex):     5              
+Number of CPU shots(hex):          3              
+
+Job ID(hex):                       5a             
+Current Clock value(decimal):      895298         
+Clock at load time(hex):           da2e1          
+Clock at termination time(hex):    da942          
+Output(hex):                       
+	 00000346 00000024 000002cd 000000af
+Nature of termination:             Normal         
+Turnaround time(hex):              661            
+Run time(hex):                     78             
+Execution time(hex):               58             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          5              
+
+Job ID(hex):                       5d             
+Current Clock value(decimal):      896877         
+Clock at load time(hex):           dab36          
+Clock at termination time(hex):    daf6d          
+Output(hex):                       
+	 00000078 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              437            
+Run time(hex):                     32             
+Execution time(hex):               22             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          3              
+
+Job ID(hex):                       5c             
+Current Clock value(decimal):      896878         
+Clock at load time(hex):           da937          
+Clock at termination time(hex):    daf6e          
+Output(hex):                       
+	 00000018 00000000 00000000 00000000
+	 00000006 00000000 00000000 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              637            
+Run time(hex):                     24             
+Execution time(hex):               c              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       61             
+Current Clock value(decimal):      899114         
+Clock at load time(hex):           db16c          
+Clock at termination time(hex):    db82a          
+Output(hex):                       
+	 00000346 00000024 000002cd 000000af
+Nature of termination:             Normal         
+Turnaround time(hex):              6be            
+Run time(hex):                     78             
+Execution time(hex):               58             
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          5              
+
+Status of operating system
+Contents Of ready list(hex):            [2f, 2c, 59, 1a, 35]
+Currently executing job(hex):           [63]           
+Contents Of blocked queue(hex):         [5f]           
+Degree of multiprogramming(decimal):    7              
+Percentage of disk in use(decimal):     26.56          
+Number of jobs on disk(hex):            9              
+Current Memory Configuration
+Number of jobs in memory(hex):          [5f, 2f, 2c, 59, 1a, 35, 63]
+Number of holes in memory(hex):         2              
+
+Job ID(hex):                       63             
+Current Clock value(decimal):      900640         
+Clock at load time(hex):           db873          
+Clock at termination time(hex):    dbe20          
+Output(hex):                       
+	 00000003 00000003 00000005 00000000
+	 00000005 00000002 00000007 00000023
+Nature of termination:             Normal         
+Turnaround time(hex):              5ad            
+Run time(hex):                     b6             
+Execution time(hex):               25             
+Page fault handling time(hex):     69             
+Number of CPU shots(hex):          6              
+
+Job ID(hex):                       64             
+Current Clock value(decimal):      901903         
+Clock at load time(hex):           dbe69          
+Clock at termination time(hex):    dc30f          
+Output(hex):                       
+	 00000003 1000001f 00000000 00000003
+Nature of termination:             Normal         
+Turnaround time(hex):              4a6            
+Run time(hex):                     27             
+Execution time(hex):               f              
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          4              
+
+Job ID(hex):                       5f             
+Current Clock value(decimal):      903081         
+Clock at load time(hex):           db162          
+Clock at termination time(hex):    dc7a9          
+Output(hex):                       
+	 00000001 00000002 00000003 00000003
+	 00000002 00000002 00000003 00000006
+	 00000003 00000004 00000004 80000003
+	 00000004 00000006 00000003 00000007
+	 00000005 00000006 00000055 00000055
+	 00000006 00000004 00000002 80000006
+	 00000000 00000004 00000007 00000000
+	 00000001 00000001 00000001 00000000
+	 00000002 00000003 00000007 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              1647           
+Run time(hex):                     2bf            
+Execution time(hex):               92             
+Page fault handling time(hex):     195            
+Number of CPU shots(hex):          14             
+
+Job ID(hex):                       65             
+Current Clock value(decimal):      903476         
+Clock at load time(hex):           dc357          
+Clock at termination time(hex):    dc934          
+Output(hex):                       
+	 00000005 0000000a 0000000c 00000008
+	 0000000f 00000004 00000002 00000003
+Nature of termination:             Normal         
+Turnaround time(hex):              5dd            
+Run time(hex):                     135            
+Execution time(hex):               2c             
+Page fault handling time(hex):     e1             
+Number of CPU shots(hex):          6              
+
+Job ID(hex):                       2c             
+Current Clock value(decimal):      906335         
+Clock at load time(hex):           5f01           
+Clock at termination time(hex):    dd45f          
+Output(hex):                       
+	 00000000 0000000f 00000003 00000000
+	 00000000 00000076 00000f31 00000000
+	 800530ed 00054321 00000000 00001234
+	 00000000 00000017 00000093 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              d755e          
+Run time(hex):                     1e9d3          
+Execution time(hex):               14b89          
+Page fault handling time(hex):     9e02           
+Number of CPU shots(hex):          142            
+
+Job ID(hex):                       2f             
+Current Clock value(decimal):      906893         
+Clock at load time(hex):           696d           
+Clock at termination time(hex):    dd68d          
+Output(hex):                       
+	 00000000 0000000f 00000003 00000000
+	 00000000 00000076 00000f31 00000000
+	 800530ed 00054321 00000000 00001234
+	 00000000 00000017 00000093 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              d6d20          
+Run time(hex):                     1e9d3          
+Execution time(hex):               14b89          
+Page fault handling time(hex):     9e02           
+Number of CPU shots(hex):          142            
+
+Status of operating system
+Contents Of ready list(hex):            [1a]           
+Currently executing job(hex):           [59]           
+Contents Of blocked queue(hex):         [35]           
+Degree of multiprogramming(decimal):    3              
+Percentage of disk in use(decimal):     8.2            
+Number of jobs on disk(hex):            3              
+Current Memory Configuration
+Number of jobs in memory(hex):          [35, 1a, 59]   
+Number of holes in memory(hex):         a              
+
+Status of operating system
+Contents Of ready list(hex):            [1a]           
+Currently executing job(hex):           [59]           
+Contents Of blocked queue(hex):         [35]           
+Degree of multiprogramming(decimal):    3              
+Percentage of disk in use(decimal):     8.2            
+Number of jobs on disk(hex):            3              
+Current Memory Configuration
+Number of jobs in memory(hex):          [35, 1a, 59]   
+Number of holes in memory(hex):         a              
+
+Job ID(hex):                       35             
+Current Clock value(decimal):      928133         
+Clock at load time(hex):           1258f          
+Clock at termination time(hex):    e2985          
+Output(hex):                       
+	 00000000 0000000f 00000003 00000000
+	 00000000 00000076 00000f31 00000000
+	 800530ed 00054321 00000000 00001234
+	 00000000 00000017 00000093 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              d03f6          
+Run time(hex):                     1e9d3          
+Execution time(hex):               14b89          
+Page fault handling time(hex):     9e02           
+Number of CPU shots(hex):          142            
+
+Status of operating system
+Contents Of ready list(hex):            []             
+Currently executing job(hex):           [1a]           
+Contents Of blocked queue(hex):         [59]           
+Degree of multiprogramming(decimal):    2              
+Percentage of disk in use(decimal):     5.08           
+Number of jobs on disk(hex):            2              
+Current Memory Configuration
+Number of jobs in memory(hex):          [59, 1a]       
+Number of holes in memory(hex):         c              
+
+Status of operating system
+Contents Of ready list(hex):            []             
+Currently executing job(hex):           [1a]           
+Contents Of blocked queue(hex):         [59]           
+Degree of multiprogramming(decimal):    2              
+Percentage of disk in use(decimal):     5.08           
+Number of jobs on disk(hex):            2              
+Current Memory Configuration
+Number of jobs in memory(hex):          [59, 1a]       
+Number of holes in memory(hex):         c              
+
+Job ID(hex):                       59             
+Current Clock value(decimal):      953460         
+Clock at load time(hex):           2b6cf          
+Clock at termination time(hex):    e8c74          
+Output(hex):                       
+	 00000000 0000000f 00000003 00000000
+	 00000000 00000076 00000f31 00000000
+	 800530ed 00054321 00000000 00001234
+	 00000000 00000017 00000093 00000000
+Nature of termination:             Normal         
+Turnaround time(hex):              bd5a5          
+Run time(hex):                     1e9d3          
+Execution time(hex):               14b89          
+Page fault handling time(hex):     9e02           
+Number of CPU shots(hex):          142            
+
+Job ID(hex):                       1a             
+Current Clock value(decimal):      1808251        
+Clock at load time(hex):           3119           
+Clock at termination time(hex):    1b977b         
+Error:                             SUSPECTED INFINITE JOB (EXECUTION TIME ERROR.CODE:302)
+Nature of termination:             Abnormal       
+Turnaround time(hex):              1b6662         
+Run time(hex):                     f40ec          
+Execution time(partial execution)(hex):f40e4          
+Page fault handling time(hex):     0              
+Number of CPU shots(hex):          9b3            
+
+Current CLOCK value(hex):                         1b977b         
+Mean user job run time(decimal):                  21254.61       
+Mean user job IO time(decimal):                   43.11          
+Mean user job Execution time(decimal):            17856.74       
+Mean user job turnaround time(decimal):           85829.16       
+Mean user job page fault handling time(decimal):  3354.76        
+Total cpu idle time(hex):                         0              
+Time lost due to abnormally terminated jobs(hex): f40ef          
+Normally terminated jobs(decimal):                80             
+Abormally terminated jobs(decimal):               22             
+Time lost due to suspected infinite jobs(hex):    f40ec          
+ID's of suspected infinite jobs(decimal):          26            
+Total number of page faults encountered(hex):     dec7           
+Average number of jobs on disk(decimal):          21.18          
+Percentage of disk occupied(decimal):             0.0            
+Average percentage of disk occupied(decimal):     18.3           
+Number of holes on disk(decimal):                 17207          
+Average number of holes on disk(decimal):         202.44         
+Average number of pages freed on disk(decimal):   7.02           
+Average number of unused pages on disk(decimal):  0.06           
+Average Size of Sub Queue1(decimal):              0.2            
+Average Size of Sub Queue2(decimal):              0.29           
+Average Size of Sub Queue3(decimal):              0.45           
+Average Size of Sub Queue4(decimal):              2.44           
+Maximum Jobs in SubQueue 1(decimal):              7              
+Maximum Jobs in SubQueue 2(decimal):              7              
+Maximum Jobs in SubQueue 3(decimal):              7              
+Maximum Jobs in SubQueue 4(decimal):              7              
